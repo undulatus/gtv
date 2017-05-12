@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: GoogleTokenValidator
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bryan.batanes
+Implementation-Vendor-Id: com.pointwest.googletoken.validator
+Build-Jdk: 1.8.0_71
+Implementation-URL: http://projects.spring.io/spring-boot/Google-token
+ -validator/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

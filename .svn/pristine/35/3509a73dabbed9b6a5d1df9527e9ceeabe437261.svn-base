@@ -1,0 +1,6 @@
+client_id: 360582617344-4uqrt932alcqjub8qo74pj52uf55qr43.apps.googleusercontent.com
+project_id: e-stimation-worksheet
+auth_uri: https://accounts.google.com/o/oauth2/auth
+token_uri: https://accounts.google.com/o/oauth2/token
+auth_provider_x509_cert_url: https://www.googleapis.com/oauth2/v1/certs
+client_secret: cHBuhc59BF7cLmQP98KM4s1e

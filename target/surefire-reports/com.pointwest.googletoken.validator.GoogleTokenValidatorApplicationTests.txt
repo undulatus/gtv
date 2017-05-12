@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pointwest.googletoken.validator.GoogleTokenValidatorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.917 sec - in com.pointwest.googletoken.validator.GoogleTokenValidatorApplicationTests
